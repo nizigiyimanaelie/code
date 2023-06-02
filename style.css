@@ -1,0 +1,14 @@
+.nav {
+    background-color: rgb(0, 255, 221); 
+    list-style-type: none;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .nav li {
+    display: inline-block;
+    font-size: 30px;
+    padding: 25px;
+    text-decoration: none;
+  }
